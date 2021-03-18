@@ -48,7 +48,7 @@ Learn how to use Fragment.
 
 ---
 
-## part 1 
+## Part 1 
 
 InstagramClone is a photo sharing app similar to Instagram but using Parse as its backend.
 
@@ -78,6 +78,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='walk1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walk2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walk3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
